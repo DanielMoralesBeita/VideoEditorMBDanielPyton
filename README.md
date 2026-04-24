@@ -11,8 +11,9 @@ Install
 
 # Install dependencies
 
+Mejor mas bonito XD
+pip install requeriment.txt 
 
-pip install moviepy customtkinter spleeter
 👨‍💻 Author
 Daniel Alberto Morales Beita
 Senior Full-Stack Software Engineer & Architect
