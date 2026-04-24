@@ -1,0 +1,13 @@
+# GUI Framework
+customtkinter>=5.2.0
+
+# Video Editing Engine
+moviepy>=1.0.3
+
+# AI Voice Separation (Requires TensorFlow)
+spleeter>=2.4.0
+
+# Dependencies for Audio/Video Processing
+numpy>=1.23.5
+decorator>=4.4.2
+tqdm>=4.65.0
