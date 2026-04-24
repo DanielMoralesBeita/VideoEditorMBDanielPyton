@@ -10,8 +10,9 @@ Install
  
 
 # Install dependencies
-pip install moviepy
 
+
+pip install moviepy customtkinter spleeter
 👨‍💻 Author
 Daniel Alberto Morales Beita
 Senior Full-Stack Software Engineer & Architect
